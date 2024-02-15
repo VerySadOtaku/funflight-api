@@ -1,4 +1,4 @@
-package carrentals;
+package com.example.funflightapi.carrentals;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

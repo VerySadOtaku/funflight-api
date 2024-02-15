@@ -1,4 +1,4 @@
-package flights;
+package com.example.funflightapi.flights;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

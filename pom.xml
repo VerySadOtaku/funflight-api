@@ -14,7 +14,7 @@
     <name>funflight-api</name>
     <description>funflight-api</description>
     <properties>
-        <java.version>21</java.version>
+        <java.version>17</java.version>
     </properties>
     <dependencies>
         <dependency>
@@ -34,6 +34,12 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <version>3.2.2</version>
             <scope>test</scope>
+        </dependency>
+
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <version>8.0.19</version>
         </dependency>
 
     </dependencies>

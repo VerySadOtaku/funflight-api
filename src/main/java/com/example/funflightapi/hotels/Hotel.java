@@ -1,4 +1,4 @@
-package hotels;
+package com.example.funflightapi.hotels;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
